@@ -1,0 +1,644 @@
+/* NAVIGATION BAR */
+html,body{
+  
+  overflow-x: hidden;
+}
+
+#logo{
+    margin-left: 60px;
+}
+
+#one{
+    font-weight: 700;
+    font-size: 20px;
+    color: #a53860;
+    padding-top: 11px;
+    width: 83px;
+    height: 24px;
+    padding-left: 0px;
+}
+
+.nav-link{
+    color:#4e4b66;
+    font-weight: 700;
+    font-size: 13px;
+    margin-right: 45px;
+
+}
+
+#home{
+    color:#a53860;
+    font-weight: 700;
+    font-size: 13px;
+    margin-left: 388px;
+    margin-right: 45px;
+}
+
+
+
+  /* Track-Trade-Buy-Sell */
+
+  #fast{
+    font-weight: 400;
+    font-size: 16px;
+    color: #4e4b66;
+    display: block;
+    margin-bottom: 0px !important;
+ 
+  }
+
+  #track{
+    font-weight: 700;
+    display: block;
+    font-size: 45px;
+    background: linear-gradient(45deg, #a53860, #ffcc3a);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 0px !important;  
+   
+  }
+
+  #track1{
+    font-weight: 700;
+    display: block;
+    font-size: 45px;
+    background: linear-gradient(45deg, #a53860, #ffcc3a);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 0px !important;
+    text-align: center;
+    padding-top: 20px; 
+   
+  }
+
+  #track5{
+    font-weight: 700;
+    display: block;
+    font-size: 32px;
+    background: linear-gradient(45deg, #a53860, #ffcc3a);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 0px !important;
+    padding-bottom: 80px;
+   
+    
+   
+  }
+
+  #all{
+    font-weight: 700;
+    font-size: 44px;
+    color: #2c2e31;
+    /* padding-top: 14px; */
+  }
+
+  #simp{
+    font-weight: 400;
+    font-size: 15px;
+    color:#69727a;
+    line-height: 27px;
+    width: 526px;
+  }
+
+  #b1{
+    background-color: #a53860;
+    border-radius: 65px;
+    display: flex;
+    padding: 15px 20px;
+    font-weight: 700;
+    font-size: 12px;
+    color: #fff;
+    border: none !important;
+    width: 156px;
+    
+  }
+
+  #mac{
+    width: 12px;
+    height: 12px;
+    margin-top: 2px;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding-right: 5px;
+    
+  }
+
+  #b2{
+    border-radius: 65px;
+    border: 1px solid #a53860;
+    display: flex;
+    padding: 15px 20px;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    color: #2c2e31;
+    margin-left: 24px;
+    
+  }
+
+  #b3{
+    border-radius: 65px;
+    border: 1px solid #a53860;
+    display: flex;
+    padding: 15px 20px;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    color: #2c2e31;
+    margin-left: 24px;
+    
+  }
+
+  .bg {
+    /* The image used */
+    background-image: url("https://goldbox.gold/Rectangle%201071.aa83b4494c3c8cca.png");
+  
+    /* Full height */
+    height: 660px; 
+    width: 1440px;
+    padding: 50px 0 0  !important;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #mobile{
+    height: 596px;
+   padding-top: 0px !important;
+   background-image: url(https://goldbox.gold/image-background-2.d67325d253d7a57f.png);
+   position: relative;
+   width: 349px !important;
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center;
+   margin-right: 150px ;
+  
+   
+
+  }
+
+  #rate{
+    background-image: url(https://goldbox.gold/yellow-background.2e6f66d06d6fbb4e.png);
+    
+    position:relative;
+    top:17%;
+    left:17%;
+    height: 97px;
+    width: 230px !important;
+ 
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    padding-top: 0px !important;
+  
+
+  }
+
+  #k{
+    color: #333;
+    font-weight: 700 !important;
+    font-size: 11px;
+    padding-top: 8px;
+    padding-left: 8px;
+    margin-bottom: 10px !important;
+   
+
+  }
+
+  #price{
+    font-weight: 700;
+    font-size: 15px;
+    padding-top: 8px;
+    color: red;
+    padding-left: 8px;
+    margin-bottom: 10px !important;
+  }
+
+  .line{
+    border: 2px solid #707070;
+    height: 40px;
+    width: 0px;
+   
+    margin-top: 10px !important;
+  }
+ 
+
+  /* Section 2 */
+ #sec2{
+  background-image: url(Bg.png);
+  padding-top: 0px !important;
+ }
+
+ #av{ font-size: normal;
+  text-align: center;
+  padding-bottom: 48px;
+  color: 2c2e31;
+  margin-bottom: 0px;
+
+
+ }
+
+ #step{
+  font-weight: 400;
+  font-size: 14px;
+  color: #a53860;
+  margin-bottom: 0px;
+ }
+
+ #down{
+  font-weight: 600;
+  font-size: 13px;
+  color: #2c2e31;
+  margin-bottom: 0px;
+ }
+
+
+ #via{
+  font-weight: 400;
+  color: #4e4b66;
+  font-size: 11px;
+  margin-bottom: 2px;
+ }
+
+#gold{ 
+  width: 100%;
+  height: 359px;
+  vertical-align: middle;
+}
+
+
+/* Section 3 */
+#sec3{
+  background-image:url(https://goldbox.gold/Rectangle%201076.4408ac8554810555.png);
+  height: auto;
+  
+  
+}
+
+#plus{
+  height: 427px;
+  width: 205px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+
+#plan{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #2c2e31;
+  
+
+}
+
+#plan span{
+  font-weight: 600;
+  font-size: 16px;
+  color: #000;
+  padding-right: 6px;
+}
+
+#explore{
+  color: #2c2e31;
+  width: 700px;
+  height: 102px;
+  padding-top: 24px;
+  line-height: 26px;
+}
+
+/* Section 4 */
+#sec4{
+  background-image: url(https://goldbox.gold/Rectangle%201077.a7c5d8afaeec96ba.png);
+  width: 100%;
+ padding: 75px;
+ height: 530px;
+
+}
+
+#track3{
+  font-weight: 700;
+    display: block;
+    font-size: 45px;
+    background: linear-gradient(45deg, #a53860, #ffcc3a);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 0px !important;
+
+}
+
+/* section 5 carousal */
+#sec5{
+  background-image: url(https://goldbox.gold/Rectangle%201078.3a033632ffa0854b.png);
+  padding: 48px 40px 50px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 637px;
+
+}
+
+.card-body{
+  background-color: #fff;
+  text-align: center;
+  padding: 30px 25px;
+  height: 380px;
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+
+.card1-img-top{
+  width: 100px !important;
+  height: 100px;
+  border-radius: 50%;
+ margin-left: 90px;
+}
+
+.star{
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
+.star img{
+ width: 30px;
+ height: 30px;
+}
+
+.para{
+  color: #2c2e31;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: justify;
+  padding-top: 24px;
+
+}
+
+.owl-carousel .owl-nav {
+  display: none;
+}
+
+
+#scan{
+  width: 87px;
+  height: 87px;
+  vertical-align: middle;
+  
+}
+
+#play{
+  width: 150px;
+  height: 52px;
+ margin-top: 34px;
+ vertical-align: middle;
+
+}
+
+#app{
+  width: 150px;
+  height: 52px;
+  margin-top: 34px;
+}
+
+#wallet{
+  width: 205px;
+  height: 425px;
+  margin-left: 150px;
+}
+
+#foot{
+  background-color: #fff9fb;
+  height: 255px;
+  padding: 40px 0px;
+}
+
+#track6{
+  width: 87px;
+  height: 27px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#track6{
+ 
+  
+  font-weight: 700;
+  background: linear-gradient(45deg, #a53860, #ffcc3a);
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 0px;
+  padding-left: 10px;
+
+}
+
+/* Media Queries */
+@media screen and (max-width: 320px) {
+   
+  #home {
+      margin-left: 0px;
+    
+  }
+
+  #logo {
+      margin-left: 0px;
+    
+  }
+  #text{
+    display: none;
+  }
+  #block{
+    display: none;
+  }
+
+  .col-md-7{
+    padding: 0px !important;
+  }
+
+  .col-md-6{
+    padding: 0px !important;
+  }
+  
+  #mobile{
+    width: 320px !important;
+    margin-left: 2px;
+    }
+  #rate{
+    position: relative;
+    left:14%;
+  }
+
+  #bg1{
+    width: 320px;
+    height: 596px;
+  }
+
+  #ar{
+    display: none;
+  }
+
+  #re{
+    padding-top: 15px;
+    width: 160px;
+    display: block;
+    margin-right: 0px !important;
+  }
+
+  #re2{
+    padding-top: 25px;
+    width: 160px;
+    display: block;
+    margin-right: 0px !important;
+  }
+
+  #gold{
+    height: 282px;
+  }
+
+  #track1{
+ 
+    font-size: 20px;
+    padding-top: 40px;
+    width: 320px;
+    margin-top: 5%;
+  }
+
+  #av{
+    text-align: justify;
+    padding-bottom: 18px;
+    padding-left: 10px;
+  }
+
+  #sec3{
+    margin-top: 52%;
+    background-image: none;
+ 
+  }
+
+  #sec4{
+   
+    padding-top: 0px !important;
+
+  }
+
+  
+   
+  #sec3 img{
+    margin-left: 45px;
+    margin-top: 60px;
+  }
+
+  #track{
+    
+    font-size: 21px;
+    padding-left: 0px !important;
+  }
+
+  #plan{
+    width: 296px;
+  }
+
+  #plus{
+    margin-bottom: 5px;
+  }
+  #b2{
+    padding: 10px;
+    width: 88px;
+  }
+
+  #track6{
+    margin-top: 15px;
+    font-weight: 700;
+  background: linear-gradient(45deg, #a53860, #ffcc3a);
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 0px;
+  padding-left: 10px;
+  margin-left: 40%;
+    
+  
+  }
+
+  .col-md-8{
+    padding: 0px !important;
+  }
+
+  #explore{
+    width: 300px;
+    padding-left: 15px;
+    text-align: justify;
+  }
+
+  #b3{
+    margin-top:30%;
+    width: 131px;
+    margin-left: 5%;
+  }
+
+  #b1{
+    margin-top: 30%;
+    width: 131px;
+    margin-left: 5%;
+  }
+
+  #wallet{
+    margin-left: 15% !important;
+    margin-top: 20px;
+  }
+
+  #sec5{
+    margin-top: 100%;
+  }
+
+  #track5{
+    width: 240px;
+    margin-left: 50px;
+    margin-top: 48px;
+    padding-bottom: 80px;
+  }
+  
+  .card{
+    width: 240px;
+    margin-left: 9%;
+  }
+
+  .card1-img-top{
+    margin-left: 25%;
+  }
+
+  #foot{
+    margin-top:35% ;
+  }
+ 
+  #social{
+    display: flex;
+    justify-content: center;
+  }
+
+  #qr{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #play{
+    margin-top: 20px;
+  
+  }
+
+  #app{
+    margin-top:20px ;
+  }
+
+  
+  
+}
+
+
+
+
+
+  
